@@ -39,3 +39,12 @@ header {
   object-fit: cover;
   border-radius: 8px;
 }
+
+.product-card h2 {
+  font-size: 18px;
+  text-transform: capitalize;
+}
+
+.product-card p {
+  font-weight: bold;
+}
